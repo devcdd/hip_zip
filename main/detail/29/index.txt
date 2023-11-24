@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/_next/static/css/dd20ca69678719ca.css","style",{"crossOrigin":""}]
-0:["J6UQw6xElcLYOhdc2B3sB",[[["",{"children":["main",{"children":["detail",{"children":[["id","29","d"],{"children":["__PAGE__?{\"id\":\"29\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dd20ca69678719ca.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/_next/static/css/703995dce5b8874e.css","style",{"crossOrigin":""}]
+0:["rTZkoByrO9xvnev9b5LmG",[[["",{"children":["main",{"children":["detail",{"children":[["id","29","d"],{"children":["__PAGE__?{\"id\":\"29\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/703995dce5b8874e.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6954,[],""]
 6:I[7264,[],""]
 7:I[8326,["326","static/chunks/326-54ea8469c01c955e.js","277","static/chunks/app/main/layout-d67bc8bdc79e869e.js"],""]
@@ -8,4 +8,4 @@
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"hip_zip"}],["$","meta","3",{"name":"description","content":"힙합 앨범 리스트를 너희에게 제공하리라 .."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 8:null
 a:I[3711,["413","static/chunks/413-84c4539a8f60f129.js","935","static/chunks/app/main/detail/%5Bid%5D/page-4332647f8bed64e8.js"],""]
-9:["$","div",null,{"className":"h-full w-full","children":["$","$La",null,{"detail":{"id":29,"album_name":"Harmony","album_description":"","album_image":"https://cdnimg.melon.co.kr/cm2/album/images/113/23/980/11323980_20230911143724_500.jpg?1f4a5825a817d446f8eb1f879450afc2/melon/resize/282/quality/80/optimize","album_tracks":[],"album_release_date":"2023-09-12","music_video":"","artist_name":"카더가든","artist_image":""}}]}]
+9:["$","div",null,{"className":"h-full w-full","children":["$","$La",null,{"detail":{"id":29,"album_name":"Harmony","album_description":"","album_image":"https://cdnimg.melon.co.kr/cm2/album/images/113/23/980/11323980_20230911143724_500.jpg?1f4a5825a817d446f8eb1f879450afc2/melon/resize/282/quality/80/optimize","album_tracks":[],"album_release_date":"2023-09-12","music_video":"https://www.youtube.com/embed/IxaTjGPP2aM","artist_name":"카더가든","artist_image":""}}]}]
