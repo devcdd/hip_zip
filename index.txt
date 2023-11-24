@@ -1,9 +1,9 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/_next/static/css/703995dce5b8874e.css","style",{"crossOrigin":""}]
-0:["rTZkoByrO9xvnev9b5LmG",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/703995dce5b8874e.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/_next/static/css/0fa1a7e92be0a66b.css","style",{"crossOrigin":""}]
+0:["6_a8rkCBNXPPmICTqWNTm",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0fa1a7e92be0a66b.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6954,[],""]
 6:I[7264,[],""]
-8:I[482,["931","static/chunks/app/page-2c5ef72b924b1635.js"],""]
+8:I[482,["931","static/chunks/app/page-1952e35c669b847c.js"],""]
 3:[null,["$","html",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","body",null,{"className":"__className_e66fe9 h-full","children":["$","div",null,{"className":"h-full p-3 gap-10 flex flex-col items-center justify-center text-white font-bold text-4xl bg-gradient-to-r from-black to-gray-900 animate-gradient","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"h-screen flex justify-center items-center","children":"잘못된 곳에 찾아오셨습니다."}],"notFoundStyles":[],"initialChildNode":["$L7",["$","div",null,{"className":"h-screen flex flex-col justify-center items-center","children":[["$","p",null,{"className":"text-8xl animate-bounce mb-10","children":"hip_zip"}],["$","div",null,{"className":"flex justify-center","children":["$","$L8",null,{"redirectUrl":"main"}]}]]}],null],"childPropSegment":"__PAGE__","styles":null}]}]}]]}],null]
 4:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"hip_zip"}],["$","meta","3",{"name":"description","content":"힙합 앨범 리스트를 너희에게 제공하리라 .."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
 7:null
